@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on matt pudig</title>
+    <link>https://mpudig.github.io/</link>
+    <description>Recent content in about on matt pudig</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://mpudig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>contact</title>
+      <link>https://mpudig.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mpudig.github.io/contact/</guid>
+      <description>&lt;p&gt;Please feel free to get in touch!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;email&lt;/strong&gt;: matthew (dot) pudig (at) nyu (dot) edu&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=UqxHk20AAAAJ&amp;amp;hl=en&amp;amp;oi=sra&#34;&gt;google scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/mpudig&#34;&gt;github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
